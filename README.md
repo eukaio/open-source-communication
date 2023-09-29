@@ -1,2 +1,5 @@
 # open-source-communication
-This unprecedented project aims to create an open source communication network. The idea is to create a parallel internet interconnected with the global internet through open source hardware. Each user also becomes a node, contributing to network traffic.
+This unprecedented project aims to create an open source telecommunications network. The idea is to create an internet network using open source wireless hardware. Each user also becomes a node, contributing to network traffic.
+To the user, the advantage of maintaining open source communication equipment is browsing free from the control of governments and internet service providers.
+
+Freedom. Let's rescue the essence of the internet.
